@@ -1,6 +1,6 @@
 # Election-Analysis-Project
-#Predictive Analysis of Election Outcomes Using Machine Learning
-
+'Predictive Analysis of Election Outcomes Using Machine Learning'
+# Election Analysis Using Machine Learning
 ## 📝 Project Overview
 
 The objective of this project is to predict election outcomes using various machine learning models. The analysis is performed on a dataset of 220 Indian regions, aiming to identify key influencing factors and understand electoral trends and voter behavior patterns.
